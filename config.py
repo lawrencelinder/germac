@@ -1,5 +1,5 @@
 #
-# Configuração do banco de dados
+# Arquivo de Configuração do API - GerMac
 # By Lawrence Linder - 18/10/2018
 # Versão 1.0a
 #
